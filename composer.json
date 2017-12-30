@@ -1,0 +1,5 @@
+{
+  "name" : "dubr/floxim-module-metrika",
+  "description" : "Floxim + Yandex.Metrika",
+  "type" : "floxim-module"
+}
