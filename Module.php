@@ -9,7 +9,7 @@ class Module extends \Floxim\Floxim\Component\Module\Entity {
         fx::page()->addJs([
             FX_JQUERY_PATH_HTTP,
             fx::path()->abs('/module/Floxim/Ui/Js/Floxim.js'),
-            $dir.'/metrika.js'
+            $dir . '/metrika.js'
         ]);
     }
 }
